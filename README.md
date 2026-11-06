@@ -1,3 +1,5 @@
+<img src=".wordpress-org/icon.svg" alt="" width="96" height="96">
+
 # Custom Classic
 
 A small WordPress plugin that customizes the Text tab toolbar in the classic editor.
@@ -43,6 +45,7 @@ Some combinations, such as Cmd/Ctrl+W, are reserved by the browser and cannot be
 | `admin.js` | Settings page: sorting, recording shortcuts, checking input. |
 | `editor.js` | The toolbar: overrides, custom buttons, order and shortcuts. |
 | `uninstall.php` | Deletes the settings when the plugin is deleted. |
+| `.wordpress-org/` | Plugin icon (`icon.svg` plus 128 and 256 px PNG) for the wordpress.org directory. Not part of the plugin zip. |
 | `languages/` | Norwegian Bokmål translation. Edit the `.po` file and regenerate the `.l10n.php` file. |
 
 ## License
