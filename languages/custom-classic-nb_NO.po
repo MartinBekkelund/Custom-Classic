@@ -1,0 +1,113 @@
+# Norwegian Bokmål translation for Custom Classic.
+# This file is distributed under the same license as the plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Classic 1.0.0\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: custom-classic\n"
+
+msgid "Customize the Text tab toolbar in the classic editor: choose and order buttons, add your own tag buttons and assign keyboard shortcuts."
+msgstr "Tilpass knapperaden i Tekst-fanen i den klassiske editoren: velg og sorter knapper, legg til egne knapper og lag hurtigtaster."
+
+msgid "Settings"
+msgstr "Innstillinger"
+
+msgid "Customize the toolbar in the Text tab of the classic editor. Drag the buttons into the order you want, untick the ones you do not use, and add your own. Leave a field empty to keep the WordPress default."
+msgstr "Tilpass knapperaden i Tekst-fanen i den klassiske editoren. Dra knappene i den rekkefølgen du vil ha dem, fjern haken på dem du ikke bruker, og legg til dine egne. La et felt stå tomt for å beholde WordPress' standard."
+
+msgid "To set a shortcut, click the shortcut field and press the keys, for example Cmd+3 on Mac or Ctrl+3 elsewhere. Backspace clears it."
+msgstr "Klikk i hurtigtastfeltet og trykk tastene for å lage en hurtigtast, for eksempel Cmd+3 på Mac eller Ctrl+3 ellers. Backspace tømmer feltet."
+
+msgid "Move"
+msgstr "Flytt"
+
+msgid "Drag to move"
+msgstr "Dra for å flytte"
+
+msgid "Show"
+msgstr "Vis"
+
+msgid "ID"
+msgstr "Id"
+
+msgid "Label"
+msgstr "Etikett"
+
+msgid "Start tag"
+msgstr "Starttagg"
+
+msgid "End tag"
+msgstr "Sluttagg"
+
+msgid "Shortcut"
+msgstr "Hurtigtast"
+
+msgid "Remove"
+msgstr "Fjern"
+
+msgid "Add button"
+msgstr "Legg til knapp"
+
+msgid "Reset to WordPress default"
+msgstr "Nullstill til WordPress' standard"
+
+msgid "When you delete the plugin, all its settings are deleted too."
+msgstr "Når du sletter pluginen, slettes også alle innstillingene."
+
+msgid "Reset the toolbar to the WordPress default? All your changes will be lost."
+msgstr "Nullstille knapperaden til WordPress' standard? Alle endringene dine går tapt."
+
+msgid "The toolbar has been reset to the WordPress default."
+msgstr "Knapperaden er nullstilt til WordPress' standard."
+
+msgid "Everything else was saved."
+msgstr "Alt annet ble lagret."
+
+msgid "Button %1$d: %2$s"
+msgstr "Knapp %1$d: %2$s"
+
+msgid "not saved. The ID \"%s\" may only contain a–z, 0–9, - and _."
+msgstr "ble ikke lagret. Id-en «%s» kan bare inneholde a–z, 0–9, - og _."
+
+msgid "not saved. The ID \"%s\" is already in use."
+msgstr "ble ikke lagret. Id-en «%s» er allerede i bruk."
+
+msgid "not saved. You can have at most %d buttons."
+msgstr "ble ikke lagret. Du kan ha høyst %d knapper."
+
+msgid "not saved. A custom button needs a label and a start tag."
+msgstr "ble ikke lagret. En egen knapp må ha etikett og starttagg."
+
+msgid "the end tag was removed, because it needs a start tag."
+msgstr "sluttaggen ble fjernet, fordi den trenger en starttagg."
+
+msgid "the shortcut was removed, because it is not valid."
+msgstr "hurtigtasten ble fjernet, fordi den ikke er gyldig."
+
+msgid "the shortcut was removed, because another button already uses it."
+msgstr "hurtigtasten ble fjernet, fordi en annen knapp allerede bruker den."
+
+msgid "Use only a–z, 0–9, - and _."
+msgstr "Bruk bare a–z, 0–9, - og _."
+
+msgid "This ID is already in use."
+msgstr "Denne id-en er allerede i bruk."
+
+msgid "Required for custom buttons."
+msgstr "Påkrevd for egne knapper."
+
+msgid "An end tag needs a start tag."
+msgstr "En sluttagg trenger en starttagg."
+
+msgid "Another button already uses this shortcut."
+msgstr "En annen knapp bruker allerede denne hurtigtasten."
+
+msgid "The end tag does not match the start tag."
+msgstr "Sluttaggen passer ikke med starttaggen."
+
+msgid "The browser usually reserves this shortcut, so it may not work."
+msgstr "Nettleseren bruker vanligvis denne hurtigtasten selv, så den virker kanskje ikke."
