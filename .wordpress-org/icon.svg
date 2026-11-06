@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-labelledby="t">
+  <title id="t">Custom Classic</title>
+  <!-- Nivlheim navy tile, small radius as in the design system -->
+  <rect width="16" height="16" rx="1.5" fill="#31394e"/>
+  <!-- Toolbar: two WordPress buttons and one custom button (orange) -->
+  <rect x="3" y="3" width="3" height="3" rx=".5" fill="#ffffff"/>
+  <rect x="7" y="3" width="3" height="3" rx=".5" fill="#ffffff"/>
+  <rect x="11" y="3" width="2" height="3" rx=".5" fill="#f1782c"/>
+  <!-- Text lines in the editor -->
+  <rect x="3" y="8" width="10" height="2" fill="#ffffff" fill-opacity=".64"/>
+  <rect x="3" y="11" width="7" height="2" fill="#ffffff" fill-opacity=".64"/>
+</svg>
